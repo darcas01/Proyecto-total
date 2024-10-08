@@ -1,0 +1,10 @@
+com\darwuich\compensapp\cancelarcita\servlets\CancelarCitaServlet.class
+com\darwuich\compensapp\login\Servlets\LoginServlets.class
+com\darwuich\compensapp\compensapp\resources\JakartaEE10Resource.class
+com\darwuich\compensapp\modificarcita\servlets\ModificarCitaServlet.class
+com\darwuich\compensapp\compensapp\JakartaRestConfiguration.class
+com\darwuich\compensapp\historialcitas\JakartaRestConfiguration.class
+com\darwuich\compensapp\agendarcita\servlets\AgendarCitaServlet.class
+com\darwuich\compensapp\historialcitas\models\Cita.class
+com\darwuich\compensapp\historialcitas\servlets\HistorialCitasServlet.class
+com\darwuich\compensapp\registrousuario\servlets\RegistroServlet.class
